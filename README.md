@@ -32,7 +32,7 @@ The following **additional** features are implemented:
 
 Here's a walkthrough of implemented user stories:
 
-
+https://www.veed.io/view/d0acf61d-2ef6-4b01-a46a-506f9c8fa18d?panel=share.gif
 
 ## Notes
 
